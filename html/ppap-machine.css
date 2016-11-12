@@ -1,0 +1,106 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    color: #ccc;
+    background-color: #000;
+}
+
+#btn1 {
+    position: absolute;
+    width: 32vw;
+    height: 30vh;
+    top: 6vh;
+    left: 1vw;
+    right: 33vw;
+    bottom: 31vh;
+    //font-size: 5vh;
+    font-size: 4vh;
+    color: #000;
+    background-color: #ff0;
+}
+#btn2 {
+    position: absolute;
+    width: 32vw;
+    height: 30vh;
+    top: 6vh;
+    left: 34vw;
+    right: 66vw;
+    bottom: 31vh;
+    font-size: 5vh;
+    color: #000;
+    background-color: #6f0;
+}
+#btn3 {
+    position: absolute;
+    width: 32vw;
+    height: 30vh;
+    top: 6vh;
+    left: 67vw;
+    right: 99vw;
+    bottom: 31vh;
+    font-size: 5vh;
+    color: #000;
+    background-color: #06f;
+}
+#btn4 {
+    position: absolute;
+    width: 32vw;
+    height: 30vh;
+    top: 37vh;
+    left: 1vw;
+    right: 33vw;
+    bottom: 62vh;
+    //font-size: 5vh;
+    font-size: 4vh;
+    color: #000;
+    background-color: #aaf;
+}
+#btn5 {
+    position: absolute;
+    width: 32vw;
+    height: 30vh;
+    top: 37vh;
+    left: 34vw;
+    right: 66vw;
+    bottom: 62vh;
+    font-size: 5vh;
+    color: #000;
+    background-color: #0ff;
+}
+#btn6 {
+    position: absolute;
+    width: 32vw;
+    height: 30vh;
+    top: 37vh;
+    left: 67vw;
+    right: 99vw;
+    bottom: 62vh;
+    font-size: 5vh;
+    color: #000;
+    background-color: #aff;
+}
+#btn78 {
+    position: absolute;
+    width: 98vw;
+    height: 30vh;
+    top: 68vh;
+    left: 1vw;
+    right: 99vw;
+    bottom: 93vh;
+    font-size: 5vh;
+    color: #000;
+    background-color: #f06;
+}
+
+#credit {
+    position: absolute;
+    width: 99vw;
+    height: 5vh;
+    top: 1vh;
+    left: 1vw;
+    right: 99vw;
+    bottom: 99vh;
+    font-size: 3vh;
+    color: #fff;
+    background-color: #000;
+}

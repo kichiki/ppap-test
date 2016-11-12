@@ -1,0 +1,32 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    color: #ccc;
+    background-color: #000;
+}
+
+#btn_start {
+    position: absolute;
+    width: 98vw;
+    height: 92vh;
+    top: 6vh;
+    left: 1vw;
+    right: 99vw;
+    bottom: 93vh;
+    font-size: 10vh;
+    color: #000;
+    background-color: #ff0;
+}
+
+#credit {
+    position: absolute;
+    width: 99vw;
+    height: 5vh;
+    top: 1vh;
+    left: 1vw;
+    right: 99vw;
+    bottom: 99vh;
+    font-size: 3vh;
+    color: #fff;
+    background-color: #000;
+}
