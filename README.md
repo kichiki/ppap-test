@@ -9,21 +9,27 @@ Detailed description about the code is given at Qiita site (in Japanese): [PPAPã
 
 ## PPAP-Test by Web Audio API
 
-![PPAP-Test](ppap-test.jpg)
+![PPAP-Test](images/ppap-test.jpg)
+
+Once you tap the start button (actually the entire screen), PPAP-Test begins until "Pen"-"Pineapple"-"Apple"-"Pen sequence appears.
 
 * [demo](http://kichiki.github.io/misc/ppap/ppap-test.html).
+* [demo](html/ppap-test.html).
 
 
 ## PPAP Machine by Web Audio API
 
-![PPAP Machine](ppap-machine.jpg)
+![PPAP Machine](images/ppap-machine.jpg)
+
+You can play sound samples taken from PPAP video by tapping 7 buttons on the screen or keys (QWE/ASD/ZXC).
 
 * [demo](http://kichiki.github.io/misc/ppap/ppap-machine.html).
+* [demo](html/ppap-machine.html).
 
 
 ## PPAP implementation with Video tag
 
-This project is my first trial.
+This project is my first attempt for PPAP-Test implementation but it's not working as expected.
 
 The approach is simply to seek and play the single video.
 
@@ -32,6 +38,7 @@ The seek is done by setting currentTime and the code seems to work properly at l
 The problem is on Safari (both iOS and Mac); There is a delay just after setting currentTime, so that PPAP sound is not audible.
 
 * [demo](http://kichiki.github.io/misc/ppap/ppap-video.html).
+* [demo](html/ppap-video.html).
 
 
 # Credits
